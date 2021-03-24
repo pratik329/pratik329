@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @pratik329
+- 👀 I’m interested in ... computer Networking, Computer Security, Artificial Intelligence,IoT.
+- 🌱 I’m currently learning ... Meachin Learning, Cyber Security
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ... pratikraut329@gmail.com
